@@ -21,7 +21,7 @@
 
 ## Skills
 <div>
-    <p>The following technologies were required to compelte this project</p>
+    <p>The following technologies were required to complete this project</p>
     <ul style="list-style-type: square;">
         <li><b>Python</b></li>
         <li><b>Numpy</b></li>
